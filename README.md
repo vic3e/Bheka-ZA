@@ -84,36 +84,9 @@ Free, feature-rich, easily customizable Android dashboard for wallpapers apps
 
 ---
 
-# Including in your project
-Frames is available via JitPack, so getting it as simple as adding it as a dependency, like this:
 
-1. Add JitPack repository to your root `build.gradle` file
-```gradle
-allprojects {
-    repositories {
-        maven { url 'https://jitpack.io' }
-    }
-}
-```
-2. Add the dependency in your project `build.gradle` file
-```gradle
-dependencies {
-    implementation('dev.jahir:Frames:{latest version}@aar') {
-        transitive = true
-    }
-}
-```
-where `{latest version}` corresponds to published version in   [![JitPack](https://jitpack.io/v/dev.jahir/Frames.svg)](https://jitpack.io/#dev.jahir/Frames)
 
-## How to implement
-:page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Frames/wiki/)**
-
-## Still need help :question:
-Just join our community and make a post. We'll help you as soon as possible. [![Telegram Chat](https://img.shields.io/badge/Telegram-Chat-0088cc.svg)](https://t.me/JFsDashSupport)
-
----
-
-# Developed by
+# Huge thanks to Dashboard Developers:
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
