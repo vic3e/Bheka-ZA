@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <version title="v2.6.5" />
+    <item text="Added new pictures" />
+    <item text="Added in-app products" />
+    <item text="" /> <!-- this one is empty and therefore ignored -->
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://vic3e.xyz/wp-content/uploads/2020/04/bheka-vic3e.xyz_.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Vic3e</item>
+      <!--  <item>Go Big.</item>-->
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Go Big.</item>
+        <!--<item>Details of another credited person</item> -->
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Website|IG|FB </item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://vic3e.xyz|https://instagram.com/vic.3e|https://facebook.com/vic3e.xyz</item>
+    </string-array>
+</resources>
