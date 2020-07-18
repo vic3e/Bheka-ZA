@@ -1,4 +1,4 @@
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
+<img src="https://vic3e.xyz/wp-content/uploads/2020/07/playstore-3.png" width="192" align="right" hspace="20" />
 
 Bheka
 ======
@@ -10,30 +10,6 @@ These images are exclusively free thanks to our collaborations and partnerships 
 
 The images are used with permission from the respective photographers. Should you notice your photo is being used without permission, kindly send an email to bheka@vic3e.xyz and the situation will be dealt with swiftly.
 
-
-![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
-[![JitPack](https://jitpack.io/v/dev.jahir/Frames.svg)](https://jitpack.io/#dev.jahir/Frames)
-[![Build Status](https://travis-ci.com/jahirfiquitiva/Frames.svg?branch=master)](https://travis-ci.com/jahirfiquitiva/Frames)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9747a594949f49b9a8146909868adfba)](https://www.codacy.com/app/jahirfiquitiva/Frames?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jahirfiquitiva/Frames&amp;utm_campaign=Badge_Grade)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/Frames/localized.svg)](https://crowdin.com/project/Frames/invite)
-
-Free, feature-rich, easily customizable Android dashboard for wallpapers apps
-
-<a target="_blank" href="http://jahir.dev/gh-releases/frames">
-<img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
-</a>
-
-<a target="_blank" href="https://jahir.dev/donate/">
-<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
-
-## Show some  :blue_heart:
-[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Frames.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Frames)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Frames.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Frames/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Frames.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Frames)
-
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
 
 ---
 
