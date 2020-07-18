@@ -54,6 +54,7 @@
     <string-array name="donation_items">
         <item>com.gallery.rg.two</item>
         <item> com.gallery.rg.001</item>
+        <item> 3edigital_001</item>
     </string-array>
 
 </resources>

@@ -37,10 +37,5 @@
         android:orderInCategory="500"
         android:title="@string/settings"
         app:showAsAction="never" />
-    <item
-        android:id="@+id/help"
-        android:icon="@drawable/ic_favorite_check"
-        android:orderInCategory="600"
-        android:title="help"
-        app:showAsAction="never" />
+
 </menu>

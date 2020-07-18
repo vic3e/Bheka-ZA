@@ -47,8 +47,8 @@ class MainActivity : FramesActivity() {
         val inflater: MenuInflater = menuInflater
         inflater.inflate(R.menu.menu_one, menu)
         return true
-    }
-
+    }*/
+/*
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.help -> startActivity(Intent(this, AboutActivity::class.java))

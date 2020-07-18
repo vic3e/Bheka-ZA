@@ -71,7 +71,7 @@
 
     <string name="search">Search</string>
     <string name="changelog">Changelog</string>
-    <string name="donate">Donate</string>
+    <string name="donate">Support</string>
     <string name="about">About</string>
     <string name="settings">Settings</string>
 
@@ -131,8 +131,8 @@
     <string name="eduardo_description">UI designer. Defender of negative space.</string>
 
     <string name="donate_success_title">Thank you</string>
-    <string name="donate_success_content">Thank you so much for your donation. I really appreciate it and I\'m glad you\'re enjoying %1$s.</string>
+    <string name="donate_success_content">Thank you for your contribution as it goes a long way. We are glad you\'re enjoying %1$s.</string>
     <string name="donate_error">Unexpected error with code %1$s occurred due to %2$s</string>
-    <string name="donate_error_unknown">unknown reasons</string>
+    <string name="donate_error_unknown">unknown error</string>
     <string name="close">Close</string>
 </resources>
