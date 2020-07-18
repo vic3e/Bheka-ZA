@@ -83,4 +83,4 @@ The [library source](https://github.com/vic3e/Bheka-ZA) is open-source. This mea
 
 When using the [library source](https://github.com/vic3e/Bheka-ZA), anything from it: errors, crashes, issues, etc. including successful builds, must be done completely by yourself and under your own risk and responsibility. I **will not** provide any help/support when using the [library source](https://github.com/jahirfiquitiva/Frames/tree/master).
 
-Finally, be sure your projects comply with the [license previously mentioned](https://github.com/vic3e/Bheka-ZA#license). Otherwise I will be taking the required legal actions. I hope you understand.
+Finally, be sure your projects comply with the [license previously mentioned](https://github.com/vic3e/Bheka-ZA#license).
