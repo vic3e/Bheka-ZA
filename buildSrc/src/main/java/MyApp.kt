@@ -2,6 +2,6 @@
 
 object MyApp {
     const val appId = "com.vic3e.bheka"
-    const val version = 201
-    const val versionName = "2.0.1"
+    const val version = 322
+    const val versionName = "3.2.2"
 }

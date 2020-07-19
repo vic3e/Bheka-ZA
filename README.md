@@ -59,6 +59,8 @@ If you found this app/library helpful and want to thank him, you can:
 
 ---
 
+## Special Thanksto our wonderful photographers for the high quality work they have provided us
+
 # License
 
 This app is shared under the CreativeCommons Attribution-ShareAlike license.
