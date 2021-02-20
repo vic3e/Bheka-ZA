@@ -40,7 +40,7 @@ android {
     }
 
     compileSdkVersion Versions.targetSdk
-    buildToolsVersion Versions.buildTools
+   // buildToolsVersion Versions.buildTools
 
     defaultConfig {
         manifestPlaceholders = [
@@ -106,5 +106,10 @@ dependencies {
  //   implementation 'moe.feng:MaterialStepperView:latest-version'
     // TODO: Remove comment marks to enable
      implementation Libs.oneSignal
+    implementation "androidx.core:core-ktx:+"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+repositories {
+    mavenCentral()
 }
 //

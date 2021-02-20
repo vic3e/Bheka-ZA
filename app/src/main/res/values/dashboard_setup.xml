@@ -52,9 +52,9 @@
 
     <!-- These are your donation items. Only put their ids here -->
     <string-array name="donation_items">
+        <item>3edigital_001</item>
         <item>com.gallery.rg.two</item>
         <item> com.gallery.rg.001</item>
-        <item> 3edigital_001</item>
     </string-array>
 
 </resources>
