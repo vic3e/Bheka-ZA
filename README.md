@@ -10,7 +10,7 @@ These images are exclusively free thanks to our collaborations and partnerships 
 
 The images are used with permission from the respective photographers. Should you notice your photo is being used without permission, kindly send an email to bheka@vic3e.digital and the situation will be dealt with swiftly.
 
-Visit bheka.vic3e.digital for more awesome photos.
+Visit https://bheka.vic3e.digital for more awesome photos.
 
 Go Big.
 
