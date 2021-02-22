@@ -8,7 +8,11 @@ Bheka app is a great way to keep up with awesome photographers and their images,
 
 These images are exclusively free thanks to our collaborations and partnerships with various artists. Use or download their photos as your homescreen and/or wallpaper.
 
-The images are used with permission from the respective photographers. Should you notice your photo is being used without permission, kindly send an email to bheka@vic3e.xyz and the situation will be dealt with swiftly.
+The images are used with permission from the respective photographers. Should you notice your photo is being used without permission, kindly send an email to bheka@vic3e.digital and the situation will be dealt with swiftly.
+
+Visit https://bheka.vic3e.digital for more awesome photos.
+
+Go Big.
 
 
 ---
