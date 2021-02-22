@@ -3,7 +3,7 @@
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
     <!--<string name="json_url">https://jahir.dev/frames/frames.json</string>-->
-    <string name="json_url">https://vic3e.xyz/wp-content/uploads/2020/04/feed.json</string>
+    <string name="json_url">https://bheka.vic3e.digital/wp-content/uploads/2021/02/feed.json</string>
 
     <!--
     Enable immediate download

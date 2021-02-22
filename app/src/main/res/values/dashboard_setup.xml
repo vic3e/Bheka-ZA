@@ -23,10 +23,10 @@
     <bool name="animations_enabled_by_default">true</bool>
 
     <!-- Privacy Policy link or url -->
-    <string name="privacy_policy_link">"https://vic3e.xyz/bheka-terms-conditions/"</string>
+    <string name="privacy_policy_link">"https://bheka.vic3e.digital/bheka-privacy-policy"</string>
 
     <!-- Terms and Conditions link or url -->
-    <string name="terms_conditions_link">"https://vic3e.xyz/bheka-privacy-policy/"</string>
+    <string name="terms_conditions_link">"https://bheka.vic3e.digital/terms-and-conditions-bheka/"</string>
 
     <!--
     Do you want to show your app and the dashboard versions in settings?
